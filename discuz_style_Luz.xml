@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Style]]></item>
+	<item id="Version"><![CDATA[X3.1]]></item>
+	<item id="Time"><![CDATA[2014-02-21 12:52]]></item>
+	<item id="From"><![CDATA[Theme Lab! (http://localhost:8888/illumination/)]]></item>
+	<item id="Data">
+		<item id="styleid"><![CDATA[8]]></item>
+		<item id="name"><![CDATA[Luz]]></item>
+		<item id="available"><![CDATA[1]]></item>
+		<item id="templateid"><![CDATA[8]]></item>
+		<item id="extstyle"><![CDATA[iOS7	|]]></item>
+		<item id="tplname"><![CDATA[Luz]]></item>
+		<item id="directory"><![CDATA[./template/luz]]></item>
+		<item id="copyright"><![CDATA[]]></item>
+		<item id="style">
+			<item id="dropmenubgcolor"><![CDATA[#FEFEFE]]></item>
+			<item id="floatbgcolor"><![CDATA[#FFF]]></item>
+			<item id="lightlink"><![CDATA[#FFF]]></item>
+			<item id="luzbgc"><![CDATA[#fcfcfc]]></item>
+			<item id="menuhoverbgcolor"><![CDATA[#60c17d]]></item>
+			<item id="hfbsgrey"><![CDATA[#F3F3F3]]></item>
+			<item id="boxshadow01"><![CDATA[0px 1px 5px rgba(0, 0, 0, 0.15)]]></item>
+			<item id="floatmaskbgcolor"><![CDATA[#000]]></item>
+			<item id="dropmenuborder"><![CDATA[#DDD]]></item>
+			<item id="specialbg"><![CDATA[#E5EDF2]]></item>
+			<item id="specialborder"><![CDATA[#C2D5E3]]></item>
+			<item id="commonbg"><![CDATA[#F2F2F2]]></item>
+			<item id="commonborder"><![CDATA[#CDCDCD]]></item>
+			<item id="inputbg"><![CDATA[#FFF]]></item>
+			<item id="stypeid"><![CDATA[1]]></item>
+			<item id="inputborderdarkcolor"><![CDATA[#848484]]></item>
+			<item id="headerbgcolor"><![CDATA[#444 hds/wave.png repeat]]></item>
+			<item id="headerborder"><![CDATA[0]]></item>
+			<item id="sidebgcolor"><![CDATA[ vlineb.png repeat-y 0 0]]></item>
+			<item id="msgfontsize"><![CDATA[14px]]></item>
+			<item id="bgcolor"><![CDATA[#ddd]]></item>
+			<item id="noticetext"><![CDATA[#F26C4F]]></item>
+			<item id="highlightlink"><![CDATA[#369]]></item>
+			<item id="link"><![CDATA[#333]]></item>
+			<item id="lighttext"><![CDATA[#999]]></item>
+			<item id="midtext"><![CDATA[#666]]></item>
+			<item id="tabletext"><![CDATA[#444]]></item>
+			<item id="smfontsize"><![CDATA[0.83em]]></item>
+			<item id="threadtitlefont"><![CDATA[Century Gothic,Verdana, Helvetica, Heiti TC, 微軟正黑體,'Microsoft JiangHei',Arial,sans-serif]]></item>
+			<item id="threadtitlefontsize"><![CDATA[14px]]></item>
+			<item id="smfont"><![CDATA[Heiti TC, Tahoma,Helvetica,sans-serif]]></item>
+			<item id="titlebgcolor"><![CDATA[#E5EDF2 titlebg.png repeat-x 0 0]]></item>
+			<item id="fontsize"><![CDATA[12px/1.5]]></item>
+			<item id="font"><![CDATA[Century Gothic,Verdana, Helvetica, Heiti TC, 微軟正黑體,'Microsoft JiangHei',Arial,sans-serif]]></item>
+			<item id="styleimgdir"><![CDATA[static/image/luz_img]]></item>
+			<item id="imgdir"><![CDATA[static/image/luz_img]]></item>
+			<item id="boardimg"><![CDATA[logo.png]]></item>
+			<item id="available"><![CDATA[]]></item>
+			<item id="headertext"><![CDATA[#444]]></item>
+			<item id="footertext"><![CDATA[#666]]></item>
+			<item id="menubgcolor"><![CDATA[#7ad796]]></item>
+			<item id="menutext"><![CDATA[#FFF]]></item>
+			<item id="menuhovertext"><![CDATA[#FFF]]></item>
+			<item id="wrapbg"><![CDATA[#FFF]]></item>
+			<item id="wrapbordercolor"><![CDATA[#CCC]]></item>
+			<item id="contentwidth"><![CDATA[630px]]></item>
+			<item id="contentseparate"><![CDATA[#C2D5E3]]></item>
+			<item id="inputborder"><![CDATA[#E0E0E0]]></item>
+			<item id="btnb"><![CDATA[background: #b8e1fc; /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2I4ZTFmYyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwJSIgc3RvcC1jb2xvcj0iI2E5ZDJmMyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjI1JSIgc3RvcC1jb2xvcj0iIzkwYmFlNCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjM3JSIgc3RvcC1jb2xvcj0iIzkwYmNlYSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzkwYmZmMCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUxJSIgc3RvcC1jb2xvcj0iIzZiYThlNSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjgzJSIgc3RvcC1jb2xvcj0iI2EyZGFmNSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNiZGYzZmQiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(top, #b8e1fc 0%, #a9d2f3 10%, #90bae4 25%, #90bcea 37%, #90bff0 50%, #6ba8e5 51%, #a2daf5 83%, #bdf3fd 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#b8e1fc), color-stop(10%,#a9d2f3), color-stop(25%,#90bae4), color-stop(37%,#90bcea), color-stop(50%,#90bff0), color-stop(51%,#6ba8e5), color-stop(83%,#a2daf5), color-stop(100%,#bdf3fd)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #b8e1fc 0%,#a9d2f3 10%,#90bae4 25%,#90bcea 37%,#90bff0 50%,#6ba8e5 51%,#a2daf5 83%,#bdf3fd 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #b8e1fc 0%,#a9d2f3 10%,#90bae4 25%,#90bcea 37%,#90bff0 50%,#6ba8e5 51%,#a2daf5 83%,#bdf3fd 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #b8e1fc 0%,#a9d2f3 10%,#90bae4 25%,#90bcea 37%,#90bff0 50%,#6ba8e5 51%,#a2daf5 83%,#bdf3fd 100%); /* IE10+ */
+background: linear-gradient(to bottom, #b8e1fc 0%,#a9d2f3 10%,#90bae4 25%,#90bcea 37%,#90bff0 50%,#6ba8e5 51%,#a2daf5 83%,#bdf3fd 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b8e1fc', endColorstr='#bdf3fd',GradientType=0 ); /* IE6-8 */]]></item>
+		</item>
+		<item id="version"><![CDATA[X3.1]]></item>
+	</item>
+</root>

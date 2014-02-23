@@ -1,0 +1,30 @@
+/*
+[name]iOS[/name]
+[iconbgcolor]#FFFFFF[/iconbgcolor]
+*/
+
+body { 
+	background: #fcfcfc;
+	font-family: "Helvetica Neue",sans-serif;
+	font-weight: 300;
+}
+
+#hfb.style { 
+	background-color: rgba(255,255,255,.7); 
+	border-bottom-color: rgba(209,209,209,1);
+	box-shadow: none;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	-o-box-shadow: none;
+	-khtml-box-shadow: none;
+	background-image: none;
+	background-repeat: no-repeat;
+}
+
+.sbtn-group a { color: #00a3ff; }
+
+#scbar_txt, .tfm .pt, .tfm .px {
+	box-shadow: none !important;
+	-webkit-box-shadow: none !important;
+	-moz-box-shadow: none !important;
+}
